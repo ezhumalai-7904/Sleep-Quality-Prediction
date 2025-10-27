@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Sleep Quality Prediction Dashboard
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Sleep-Quality-Prediction
+>>>>>>> 63734356b99d9795a365554d998a19095d2a7573
